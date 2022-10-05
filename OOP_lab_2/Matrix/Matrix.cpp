@@ -50,7 +50,7 @@ unsigned int const Matrix::getRowsCount() {
   return this->_rows;
 }
 
-unsigned int const Matrix::getcolumnsCount() {
+unsigned int const Matrix::getСolumnsCount() {
   return this->_columns;
 }
 

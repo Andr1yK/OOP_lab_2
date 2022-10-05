@@ -28,7 +28,7 @@ public:
 
 // --- GETTERS ---
   unsigned int const getRowsCount();
-  unsigned int const getcolumnsCount();
+  unsigned int const getСolumnsCount();
   void const displау();
 
 // --- OPERATIONS ---
